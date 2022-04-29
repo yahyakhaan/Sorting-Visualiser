@@ -44,4 +44,7 @@ Currently, the application incudes 5 sorting algorithms:
 ![](images/quickSortRec.gif)
 
 
+# DEPENDENCIES
+SFML
+
 
